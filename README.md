@@ -1,4 +1,4 @@
-# DGA Analysis using Decision Tree and Random Forest Classifier
+# Dissolved Gas Analysis (DGA) using Decision Tree and Random Forest Classifier
 
 DGA ML model helps us interpret the type of fault occurring inside an oil-filled power transformer based on the concentration of dissolved gases in its insulating oil.
 In simple terms, it learns the relationship between the five gases and seven fault categories, then predicts which fault category a new gas sample most likely belongs to.
